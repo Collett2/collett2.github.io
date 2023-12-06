@@ -149,5 +149,7 @@ font-family: 'Lora', sans-serif;
 footer {
   margin-top: 44px;
 }
-
+a {
+  color: #7678ed;
+}
 
